@@ -1,3 +1,5 @@
+//Write a program that finds the biggest of 5 numbers that are read from the console.
+
 import java.util.Scanner;
 
 public class BiggestOfFive {
