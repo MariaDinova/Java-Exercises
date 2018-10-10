@@ -1,3 +1,5 @@
+//Write a program that reads 3 integers from the console and prints the largest of them.
+
 import java.util.Scanner;
 
 public class GetLargestNumber {
