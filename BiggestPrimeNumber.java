@@ -1,3 +1,5 @@
+//Write a program that finds and prints the biggest prime number which is <= N.
+
 import java.util.Scanner;
 
 public class BiggestPrimeNumber {
