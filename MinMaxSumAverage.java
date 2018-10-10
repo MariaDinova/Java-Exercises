@@ -1,3 +1,8 @@
+/*Write a program that reads from the console a sequence of N real numbers and returns the minimal, the maximal number, 
+the sum and the average of all numbers (displayed with 2 digits after the decimal point).
+
+The input starts by the number N (alone in a line) followed by N lines, each holding an real number.*/
+
 import java.util.Scanner;
 
 public class MinMaxSumAverage {
