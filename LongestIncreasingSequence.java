@@ -1,3 +1,15 @@
+/*Write a program that finds the length of the maximal increasing sequence in an array of N integers.
+
+Input
+Read from the standard input
+
+On the first line you will receive the number N
+On the next N lines the numbers of the array will be given
+Output
+Print to the standard output
+
+Print the length of the maximal increasing sequence*/
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
