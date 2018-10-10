@@ -1,3 +1,5 @@
+//Write a program that finds the length of the maximal sequence of equal elements in an array of N integers.
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
