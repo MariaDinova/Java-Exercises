@@ -1,3 +1,7 @@
+/*Write a program that calculates N! / K! for given N and K.
+
+Use only one loop.*/
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
