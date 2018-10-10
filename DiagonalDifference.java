@@ -1,3 +1,7 @@
+/*Given a square matrix, calculate the absolute difference between the sums of its diagonals.
+The first line contains a single integer "n" the number of rows and columns in the matrix "arr". 
+Each of the next "n" lines describes a row "arr[i]" and consists of "n" space-separated integers "arr[i][j]".
+*/
 import java.util.Scanner;
 
 public class DiagonalDifference {
