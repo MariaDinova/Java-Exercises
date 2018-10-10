@@ -1,3 +1,7 @@
+/*A balanced number is a 3-digit number whose second digit is equal to the sum of the first and last digit.
+
+Write a program which reads and sums balanced numbers. You should stop when an unbalanced number is given.*/
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
