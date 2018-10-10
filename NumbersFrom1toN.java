@@ -1,3 +1,5 @@
+//Write a program that enters from the console a positive integer n and prints all the numbers from 1 to N inclusive, on a single line, separated by a whitespace.
+
 import java.util.Scanner;
 
 public class NumbersFrom1toN {
