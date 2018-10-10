@@ -1,3 +1,7 @@
+/*Calculate and print the sum of the elements in an array, keeping in mind that some of those integers may be quite large.
+The first line of the input consists of an integer "n". 
+The next line contains 'n' space-separated integers contained in the array.*/
+
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
