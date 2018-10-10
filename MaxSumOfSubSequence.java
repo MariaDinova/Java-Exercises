@@ -1,3 +1,11 @@
+/*Write a program that finds the maximal sum of consecutive elements in a given array of N numbers.
+
+Input
+On the first line you will receive the number N
+On the next N lines the numbers of the array will be given
+Output
+Print the maximal sum of consecutive numbers*/
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
