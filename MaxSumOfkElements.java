@@ -1,3 +1,5 @@
+//Write a program that reads two integer numbers N and K and an array of N elements from the console. Find the maximal sum of K elements in the array.
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
